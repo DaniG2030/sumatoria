@@ -1,4 +1,3 @@
-cat << 'EOF' > test_app.py
 import unittest
 from app import sumar
 
